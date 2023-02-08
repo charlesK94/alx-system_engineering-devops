@@ -1,2 +1,2 @@
 #!/bin/bash
-cp extension=".html"
+cp -un *.html ../
